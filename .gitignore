@@ -17,4 +17,7 @@
 
 *.md
 
-/design
+README-template.md
+README.md
+style-guide.md
+design
